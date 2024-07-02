@@ -34,7 +34,7 @@ browser-compat: path.to.feature.NameOfTheElement
 >     Format as **<**_NameOfTheElement_**>**.
 >     For example, the "[g](/en-US/docs/Web/SVG/Element/g)" element has a _title_ of `<g>`.
 > - **slug**
->   - : The end of the URL path after `https://developer.mozilla.org/en-US/docs/`).
+>   - : The end of the URL path after `https://developer.mozilla.org/en-US/docs/`.
 >     This will be formatted like `Web/SVG/Element/NameOfTheElement`.
 > - **page-type**
 >   - : Always `svg-element`.
@@ -92,9 +92,8 @@ _To use this macro, remove the backticks and backslash in the markdown file._
 
 ### Global attributes
 
-- [Conditional processing attributes](/en-US/docs/Web/SVG/Attribute#conditional_processing_attributes)
-- [Core attributes](/en-US/docs/Web/SVG/Attribute#core_attributes)
-- [Graphical event attributes](/en-US/docs/Web/SVG/Attribute#graphical_event_attributes)
+- [Generic attributes](/en-US/docs/Web/SVG/Attribute#generic_attributes)
+- [Event attributes](/en-US/docs/Web/SVG/Attribute#event_attributes)
 - [Presentation attributes](/en-US/docs/Web/SVG/Attribute#presentation_attributes)
 - {{SVGAttr("class")}}
 - {{SVGAttr("style")}}
